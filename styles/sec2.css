@@ -1,0 +1,82 @@
+.sec2{
+    background-color: white;
+}
+.sec2top{
+    width: 100%;
+    padding: 0px 15px;
+    box-sizing: ;
+}
+.sec2top span{
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    color: #e2c0bb;
+    letter-spacing: 2px;
+}
+.sec2top h2{
+    font-size: 36px;
+    font-weight: lighter;
+    line-height: 1.5;
+    color: #000000e6;
+    font-family: "Cormorant Garamond", Georgia, serif;
+}
+.sec2bottom{
+    width: 100%;
+    display: flex;
+    padding-bottom: 65px;
+}
+.s2bd{
+    width: 25%;
+    height: 90px;
+    padding: 0px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.s2bd p{
+    font-size: 18px;
+    margin: 0px 0px 8px;
+    color: #000000cc;
+}
+.s2bd input{
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    padding: 0px 0px 0px 15px;
+    border: 1px solid #e2c0bb;
+}
+.s2bd input:focus{
+    outline: none;
+}
+.s2bd select{
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    padding: 0px 0px 0px 15px;
+    border-radius: 0px;
+    border: 1px solid #e2c0bb;
+    color: rgb(177, 177, 177);
+}
+.s2bd .btn{
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    padding: 0px ;
+    border-radius: 0px;
+    border: 1px solid #e2c0bb;
+    background-color: #e2c0bb;
+}
+input::placeholder{
+    color: rgb(177, 177, 177);
+}
+@media screen and (max-width: 992px) {
+    .sec2bottom{
+        width: 100%;
+        flex-direction: column;
+    }
+    .s2bd{
+        width: 100%;
+        height: 90px;
+    }
+}

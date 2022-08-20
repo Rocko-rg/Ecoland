@@ -1,0 +1,34 @@
+.sec7{
+    width: 100%;
+    padding: 112px 0px;
+    background-image: linear-gradient(rgba(97, 90, 84, 0), rgba(23, 24, 36, 0.514)), url(https://preview.colorlib.com/theme/ecoland/images/xbg_4.jpg.pagespeed.ic.HPXeN3DtKj.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sec7d{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sec7d h2{
+    font-size: 50px;
+    font-weight: lighter;
+    color: white;
+    font-family: "Cormorant Garamond",Georgia,serif;
+    text-align: center;
+}
+.sec7d p{
+    font-size: 16px;
+    line-height: 1.8;
+    color: white;
+    text-align: center;
+}
+.sec7d a{
+    background: #fff;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    color: #000;
+}

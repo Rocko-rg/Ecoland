@@ -1,0 +1,31 @@
+.sec5{
+    padding: 112px 0px;
+    background-image: linear-gradient(rgba(97, 90, 84, 0), rgba(23, 24, 36, 0.514)), url(https://preview.colorlib.com/theme/ecoland/images/xbg_3.jpg.pagespeed.ic.jjmsrfAMo7.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sec5d{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sec5d h2{
+    font-size: 44px;
+    font-weight: lighter;
+    font-family: "Cormorant Garamond", Georgia, serif;
+    color: white;
+    line-height: 1.5;
+    text-align: center;
+}
+.sec5d p{
+    color: white;
+    line-height: 1.8;
+    text-align: center;
+}
+.sec5d .btn{
+    background-color: white;
+    border: 1px solid #fff;
+}

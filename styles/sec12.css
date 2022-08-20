@@ -1,0 +1,164 @@
+.sec12{
+    padding: 112px 0px;
+    background-color: #f8f9fa;
+    display: flex;
+}
+.sec12d{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sec12dtop{
+    width: 100%;
+    margin-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sec12dtop span{
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 5px;
+    letter-spacing: 2px;
+    color: #e2c0bb;
+    line-height: 1.8;
+    font-weight: 400;
+}
+.sec12dtop h2{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 24px;
+    font-weight: lighter;
+    font-family: "Cormorant Garamond", Georgia, serif;
+    color: #000000e6;
+    line-height: 1.5;
+}
+.sec12dtop p{
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #999999;
+}
+.sec12dbottom{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.sec12di1{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://preview.colorlib.com/theme/ecoland/images/ximage_1.jpg.pagespeed.ic.QnA6DpkzOF.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;  
+}
+.sec12di2{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://preview.colorlib.com/theme/ecoland/images/ximage_2.jpg.pagespeed.ic.cjWffy-ATT.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.sec12di3{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://preview.colorlib.com/theme/ecoland/images/ximage_3.jpg.pagespeed.ic.ic8iIXatAY.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;   
+}
+.sec12img{
+    width: 120%;
+    height: auto;
+    vertical-align: middle;  
+}
+.card{
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    margin-bottom: 40px;
+}
+.card-body{
+    padding: 15px 0px 0px !important;
+}
+.dv12{
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    display: flex;
+    align-items: center;
+}
+.dv121{
+    padding-right: 5px;
+}
+.dv121 span{
+    font-size: 50px !important;
+    font-weight: 500 !important;
+    margin: 0px;
+    color: white !important;
+    font-family: sans-serif !important;
+    text-transform: none !important;
+    letter-spacing: 0px !important; 
+}
+.dv122 span{
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    text-transform: none !important;
+    color: white !important;
+    font-family: sans-serif !important;
+    text-transform: none !important;
+    letter-spacing: 0px !important;
+    height: 22px !important;
+}
+.card h3 a{
+    font-size: 22px !important;
+    font-family: "Cormorant Garamond",Georgia,serif;
+    font-weight: lighter;
+    color: rgb(37, 37, 37) !important; 
+}
+.card h3{
+    margin-bottom: 15px;
+}
+
+.card p{
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;  
+}
+.sec12id{
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.readmore{
+    
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+.readmore .btn{
+    height: 35px;
+    background: #e2c0bb;
+    border: 1px solid #e2c0bb;
+    display: flex;
+    align-items: center;
+}
+.admn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.admn a{
+    font-size: 15px;
+    color: #808080;
+    text-decoration: none;
+    margin-left: 10px;
+}

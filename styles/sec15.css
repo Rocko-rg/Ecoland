@@ -1,0 +1,104 @@
+.sec15d{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;  
+}
+.sec15div1{
+    width: 100%;
+    height: 270px;
+    background-image: url(https://preview.colorlib.com/theme/ecoland/images/xgallery-1.jpg.pagespeed.ic.MBz5vMlCFz.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec15div2{
+    width: 100%;
+    height: 270px;
+    background-image: url(https://preview.colorlib.com/theme/ecoland/images/xgallery-2.jpg.pagespeed.ic.H8Dq_MyyAU.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec15div3{
+    width: 100%;
+    height: 270px;
+    background-image: url(https://preview.colorlib.com/theme/ecoland/images/xgallery-3.jpg.pagespeed.ic.h4hHBcvLrE.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec15div4{
+    width: 100%;
+    height: 270px;
+    background-image: url(https://preview.colorlib.com/theme/ecoland/images/xgallery-4.jpg.pagespeed.ic.ELp0n65dVf.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec15div5{
+    width: 100%;
+    height: 270px;
+    background-image: url(https://preview.colorlib.com/theme/ecoland/images/xgallery-5.jpg.pagespeed.ic.4C2pPJvybA.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec15div6{
+    width: 100%;
+    height: 270px;
+    background-image: url(https://preview.colorlib.com/theme/ecoland/images/xgallery-6.jpg.pagespeed.ic.XJ34N9enEP.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec15id{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #e2c0bb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: 0.6s;
+}
+.sec15id i{
+    color: white;
+    margin-bottom: -3px;
+}
+.sec15div1:hover .sec14id,
+.sec15div2:hover .sec14id,
+.sec15div3:hover .sec14id,
+.sec15div4:hover .sec14id,
+.sec15div5:hover .sec14id,
+.sec15div6:hover .sec14id{
+    opacity: 1;
+}
+.sec15d a{
+    text-decoration: none;
+}
+
+@media screen and (max-width: 992px){
+    .sec15id{
+        opacity: 1;
+    }
+}
