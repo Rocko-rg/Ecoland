@@ -85,12 +85,12 @@
     color: white;
     margin-bottom: -3px;
 }
-.sec15div1:hover .sec14id,
-.sec15div2:hover .sec14id,
-.sec15div3:hover .sec14id,
-.sec15div4:hover .sec14id,
-.sec15div5:hover .sec14id,
-.sec15div6:hover .sec14id{
+.sec15div1:hover .sec15id,
+.sec15div2:hover .sec15id,
+.sec15div3:hover .sec15id,
+.sec15div4:hover .sec15id,
+.sec15div5:hover .sec15id,
+.sec15div6:hover .sec15id{
     opacity: 1;
 }
 .sec15d a{
